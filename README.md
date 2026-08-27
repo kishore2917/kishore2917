@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile.png" width="150" style="border-radius: 50%;" alt="Kishore Kumar" />
+
 
 # Hi there, I'm Kishore Kumar 👋
 
@@ -48,20 +48,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kishorekumar29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorekumar29&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorekumar29&theme=tokyonight&hide_border=true" />
 
 </div>
 
-> ℹ️ Replace `kishorekumar29` above with your actual **GitHub username** (not your LinkedIn slug) for these stat cards to render correctly.
-
----
 
 ## 📫 Connect With Me
 
